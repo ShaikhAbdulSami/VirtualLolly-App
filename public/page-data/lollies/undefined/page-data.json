@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-components-dynamic-lolly-page-tsx","path":"/lollies/undefined","result":{"errors":[{"message":"Variable \"$lollyPath\" got invalid value undefined; Expected non-nullable type String! not to be null.","locations":[{"line":1,"column":100}]}],"pageContext":{}},"staticQueryHashes":[]}
