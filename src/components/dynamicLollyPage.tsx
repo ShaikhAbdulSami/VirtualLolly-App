@@ -30,7 +30,7 @@ export default function DynamicLollyPage({ data }) {
       <h5 className="sharableLinkContainer">Your shareable link: </h5>{" "}
       <span className="sharableLink">
         {" "}
-        {`https://localhost:8888/lollies/${data?.LOLLIES?.getLollyByPath?.lollyPath}`}
+        {`http://localhost:8888/lollies/${data?.LOLLIES?.getLollyByPath?.lollyPath}`}
       </span>
       <div className="recievedContentContainer">
         <Lolly

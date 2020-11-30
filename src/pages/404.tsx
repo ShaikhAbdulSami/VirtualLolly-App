@@ -38,7 +38,7 @@ export default function NotFound({ location }) {
           <h5 className="sharableLinkContainer">Your sharable link: </h5>{" "}
           <span className="sharableLink">
             {" "}
-            {`https://shaikh-virtual-lolly.netlify.app/lollies/${data.getLollyByPath.lollyPath}`}
+            {`http://localhost:8888/lollies/${data.getLollyByPath.lollyPath}`}
           </span>
           <div className="recievedContentContainer">
             <Lolly
